@@ -1,0 +1,45 @@
+.TopBar {
+
+}
+.TopBarWrapper {
+    background-color: darkgray;
+    color: dimgrey;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 16px;
+}
+.links {
+    padding:16px;
+    list-style:none;
+    margin-top:-15px;
+}
+li {
+    list-style:none;
+    margin-left: 60px;
+    align-content: center;
+}
+.Name {
+    color:black;
+    font-size:38px;
+    float:left;
+    padding:15px;
+    margin-top:-30px;
+}
+.Summary {
+    float:left;
+}
+.Project {
+    float:left;
+}
+.Award {
+    float:left;
+}
+.Stacks {
+    float:left;
+}
+.Education {
+    float:left;
+}
+.Contact {
+    float:left;
+}

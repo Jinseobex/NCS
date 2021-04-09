@@ -1,0 +1,28 @@
+.SummaryWrapper {
+
+}
+.summaryTitle {
+    font-weight: bold;
+    font-size: 38px;
+    color: #3f4165;
+    padding-top: 120px;
+    text-align: center;
+}
+.summaryContent {
+    color: #3f4165;
+    /*width: 800px;*/
+    display: flex;
+    justify-content: center;
+}
+
+.summaryContent div {
+    display: inline-block;
+    width: 800px;
+}
+
+/*
+span {
+    font-weight: bold;
+    color: #3f4165;
+}
+ */

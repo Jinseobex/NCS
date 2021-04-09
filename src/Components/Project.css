@@ -1,0 +1,32 @@
+.projectTitle {
+    font-weight: bold;
+    font-size: 38px;
+    color: #3f4165;
+    text-align: center;
+}
+.projectContent {
+    color: #3f4165;
+    /*width: 800px;*/
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display:flex;
+    justify-content:center;
+}
+.card-header {
+    font-weight: bold;
+    text-align: center;
+}
+.card-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+#corona {
+    padding-top: 30px;
+}
+span {
+    font-weight: bold;
+    color: #3f4165;
+}
